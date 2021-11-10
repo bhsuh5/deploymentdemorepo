@@ -1,0 +1,7 @@
+C:\Users\smritib\source\repos\WebApplicationsmriti\WebApplicationsmriti\obj\Release\net6.0\PubTmp\Out\WebApplicationsmriti.exe
+C:\Users\smritib\source\repos\WebApplicationsmriti\WebApplicationsmriti\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\smritib\source\repos\WebApplicationsmriti\WebApplicationsmriti\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\smritib\source\repos\WebApplicationsmriti\WebApplicationsmriti\obj\Release\net6.0\PubTmp\Out\WebApplicationsmriti.dll
+C:\Users\smritib\source\repos\WebApplicationsmriti\WebApplicationsmriti\obj\Release\net6.0\PubTmp\Out\WebApplicationsmriti.deps.json
+C:\Users\smritib\source\repos\WebApplicationsmriti\WebApplicationsmriti\obj\Release\net6.0\PubTmp\Out\WebApplicationsmriti.runtimeconfig.json
+C:\Users\smritib\source\repos\WebApplicationsmriti\WebApplicationsmriti\obj\Release\net6.0\PubTmp\Out\WebApplicationsmriti.pdb
